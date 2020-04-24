@@ -1,0 +1,15 @@
+#geany-document-status-changed{
+    color: #FFFFFF;
+}
+#geany-terminal-dirty{
+   color: #FFFFFF;
+ }
+ #geany-compiler-context{
+ color: #FFFFFF;
+ }
+ #geany-compiler-message{
+ color: #BFBFBF;
+ }
+ #geany-compiler-error{
+ color: #FBFBFB;
+ }
